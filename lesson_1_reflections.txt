@@ -1,0 +1,49 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    Comparing the content of the file we can find possible errors, if one file works
+and the new one doesn't the problem may be in the diferences between them.
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    You can see the evolution of the code, where are you failling, where are you
+correct, and if something is wrong you can go back and see what are going bad.
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+   Well, in the pros I think that is good you choose when it is necesary to create
+a commit, if you are a very organised person you can do a good job and the commit 
+frequency will be fine, but if you don´t do a good job committing you may be in 
+trouble... With the automatic vesions of the comented tools, you can forget to 
+commit at all, but maybe the commiting frequency is not good enough for the job
+you are working on!
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+    I think it's important to have a snapshot of the project in every commit.
+If only one file changes but is related to others is a good idea to save all
+the set of files. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+    Well, with the command "git log" we can see how the code 
+has been developed with all its "snapshots" in the timeline. 
+    With "git diff" we can inspect every "snapshot" of the code evolution, 
+seeing every change in detail. 
+
+How might using version control make you more confident to make changes that
+could break something?
+
+   Because if something goes wrong we can go back to a safe point of the code
+like if nothing had happen.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    Well, I'm working in a personal project written in python, I would like to
+trying on it.
