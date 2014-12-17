@@ -1,4 +1,4 @@
-Lesson 3 reflections file.
-bla
-bla
-bla
+When would you want to use a remote repository rather than keeping all your work local?
+
+  When more people are involved in the development of the project and need make changes
+  
