@@ -15,8 +15,15 @@ organized? How would branches help?
 
 How do the diagrams help you visualize the branch structure?
 
+	Well, it's faster ans easier to understand a diagram rather than any
+	text explanation or file code.
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+	
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+
