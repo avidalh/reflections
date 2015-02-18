@@ -6,4 +6,8 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	For bandwith saving? if Git's update frequency is hight and your bandwith has a low speed the update time may be long...
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+> to have the latest version of the project and have the files updated ( I think...)
+
+
 
